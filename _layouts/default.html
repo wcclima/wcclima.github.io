@@ -22,7 +22,7 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <div class="social-links">
+        <div class="social-links" style="display: flex; gap: 10px;">
         {% for link in site.social_links %}
           <a href="{{ link.url }}" target="_blank">
             <i class="{{ link.icon }}"></i> {{ link.name }}
