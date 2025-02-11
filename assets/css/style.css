@@ -35,6 +35,15 @@ img {
   height: auto;
 }
 
+header img {
+  display: block; /* Prevents inline spacing */
+  margin-left: 0; /* Aligns image to the left */
+  margin-right: auto; /* Prevents centering */
+  max-width: 150px; /* Adjust as needed */
+  height: auto; /* Maintains aspect ratio */
+}
+
+
 /* Custom sizing for specific images */
 .custom-image {
   width: 300px; /* Adjust as needed */
