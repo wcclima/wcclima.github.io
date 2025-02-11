@@ -23,7 +23,7 @@
 
 /* Restrict all images to a maximum width */
 img {
-  max-width: 100%; /* Ensures responsiveness */
+  max-width: 30%; /* Ensures responsiveness */
   height: auto; /* Prevents distortion */
   display: block; /* Removes extra spacing */
   margin: 0 auto; /* Centers the image */
