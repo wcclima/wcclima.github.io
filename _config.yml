@@ -3,3 +3,11 @@ logo: /assets/img/headshot_circle.png
 #description: text below image
 #show_downloads: true
 theme: jekyll-theme-minimal
+
+social_links:
+  - name: GitHub
+    url: https://github.com/wcclima
+    icon: fab fa-github
+  - name: LinkedIn
+    url: https://linkedin.com/in/wcclima
+    icon: fab fa-linkedin
