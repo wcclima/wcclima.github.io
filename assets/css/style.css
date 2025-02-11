@@ -20,3 +20,23 @@
 .social-links a:hover {
   color: #0077b5;  /* Example: LinkedIn blue */
 }
+
+/* Restrict all images to a maximum width */
+img {
+  max-width: 100%; /* Ensures responsiveness */
+  height: auto; /* Prevents distortion */
+  display: block; /* Removes extra spacing */
+  margin: 0 auto; /* Centers the image */
+}
+
+/* If the issue is with the logo */
+.site-header img {
+  max-width: 150px; /* Adjust based on your preference */
+  height: auto;
+}
+
+/* Custom sizing for specific images */
+.custom-image {
+  width: 300px; /* Adjust as needed */
+  height: auto;
+}
