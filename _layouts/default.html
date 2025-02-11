@@ -14,7 +14,7 @@
     {% include head-custom.html %}
   </head>
   <body>
-    <div class="wrapper" style="text-align: center;">
+    <div class="wrapper">
       <header>
         <h1 style="text-align: center;">
           <a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}
@@ -22,7 +22,9 @@
         </h1>
 
         {% if site.logo %}
+        <div style="text-align: center;">
           <img src="{{site.logo | relative_url}}" alt="Logo" />
+        </div>
         {% endif %}
 
         <div class="social-links" style="display: flex; justify-content: center; gap: 10px;">
