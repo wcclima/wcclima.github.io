@@ -3,9 +3,9 @@
 #### Technical Skills: Python, SQL, Snowflake
 
 ## Education
-- Ph.D., Physics | Universidade de São Paulo at São Carlos (_May 2012_)								       		
-- M.S., Physics	| Universidade de São Paulo at São Carlos (_March 2008_)	 			        		
-- B.S., Physics | Universidade de São Paulo at São Carlos (_December 2005_)
+- Ph.D., Physics|Universidade de São Paulo at São Carlos (_May 2012_)								       		
+- M.S., Physics|Universidade de São Paulo at São Carlos (_March 2008_)	 			        		
+- B.S., Physics|Universidade de São Paulo at São Carlos (_December 2005_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
